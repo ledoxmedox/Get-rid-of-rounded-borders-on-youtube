@@ -6,7 +6,7 @@
 // @match        *://www.youtube.com/*
 // @grant        GM_addStyle
 // @icon         https://www.google.com/s2/favicons?domain=youtube.com
-// @updateURL    
+// @updateURL    https://github.com/ledoxmedox/get-rid-of-rounded-borders-on-youtube/raw/main/download.user.js
 // ==/UserScript==
 
 (function() {
